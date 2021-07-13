@@ -1,1 +1,8 @@
-This is text content
+Git Commands:
+1.git init
+2.git commit -m "Message"/git commit --short
+3.git status
+4.git remote add origin "https address"
+5.git push origin master
+6.git log/git log -1/git log --oneline/git log --stat/git log --patch
+7.
