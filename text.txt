@@ -5,4 +5,10 @@ Git Commands:
 4.git remote add origin "https address"
 5.git push origin master
 6.git log/git log -1/git log --oneline/git log --stat/git log --patch
-7.
+7.git checkout -b new_branch :"For new Branch"
+8.git checkout master :"For coming back from new branch to master branch"
+9.git checkout new_branch:"For going back to new_branch from master branch"
+10.git rm <file name> :"Deletes the file"
+11.git rm --cached <filename>
+12.git mv <old file name> <new file name> :"For changing name of file"
+13.
